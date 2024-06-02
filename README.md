@@ -1,16 +1,17 @@
-## Hi there 👋
+## About me 
 
-<!--
-**eo-tst/eo-tst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on the [Google IT Automation with Python Professional Certificate](https://www.coursera.org/google-certificates/it-automation-certificate)
+- ⚡ Fun fact: Some species of jellyfish are technically immortal! They can revert back to an earlier stage of their life cycle through a process called [transdifferentiation](https://www.sciencefocus.com/nature/immortal-jellyfish).
+- 📫 How to reach me: eo.172002@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<figure>
+    <img src="https://i.imgur.com/s74XBgo.jpeg"
+         width="100" height="100"
+         alt="pineapples are associated with good luck">
+    <figcaption>pineapples are associated with good luck</figcaption>
+</figure>
+
+<a href="https://www.google.com" target="_blank">g</a>
